@@ -5,7 +5,7 @@ Inspired by the video on the same subject by Game Dev Guide: https://youtu.be/eh
 
 ----
 
-(Make sure you're using Unity 2020.3)
+**(Make sure you're using Unity 2020.3)**
 
-"Download ZIP" or clone
-Open project in Unity
+1. "Download ZIP" or clone the repository;
+2. Open "OutlinePostProcessDemoProject" project in Unity;
